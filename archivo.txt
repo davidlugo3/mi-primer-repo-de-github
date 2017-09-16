@@ -3,3 +3,4 @@ estoy en la rama master
 ESTOY en la rama conflicto
 arregle un conflicto manualmente
 Estoy pusheando un cambio a GitHub
+Estoy colaborando en GitHub
