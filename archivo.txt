@@ -1,1 +1,4 @@
+
 estoy en la rama master
+ESTOY en la rama conflicto
+arregle un conflicto manualmente
